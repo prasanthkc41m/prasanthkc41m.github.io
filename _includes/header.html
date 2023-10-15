@@ -4,11 +4,6 @@
     {% assign owner_first_name = site.owner | split: " " %}
     <h1>{{ owner_first_name[0] | downcase }}@work:~$</h1>
     <div class="header-links">
-              {% if site.github_username %}
-        <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener">
-            <i class="fab fa-lg fa-github" aria-hidden="true"></i>
-        </a>
-        {% endif %}
       {% include links.html %}
     </div>
   </div>
