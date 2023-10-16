@@ -1,7 +1,7 @@
-title: c41m
+title: Prasanthk
 description: "A blog from prasanthk.com"
 author:
-  name: "c41m"
+  name: "Prasanthk"
   email: " "
   url: "https://blog.prasanthk.com"
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "c41m"
+owner : "Prasanthk"
 year : "2020"
